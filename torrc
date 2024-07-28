@@ -1,0 +1,2 @@
+SocksPort 0.0.0.0:9050 # Accept connections from any interface
+Log notice stdout # Log to stdout
